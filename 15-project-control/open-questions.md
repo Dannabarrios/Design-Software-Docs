@@ -1,7 +1,7 @@
 # Preguntas abiertas
 
-> Estado: 🟡 En progreso | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Arquitectura / Gestión
+> Estado: 🟡 En progreso | Última actualización: 2026-06-22
+> Autor: Danna Barrios | Equipo: Arquitectura / Gestión
 
 ## Flujo de resolución
 
@@ -31,6 +31,23 @@
 
 | # | Pregunta | Área | Responsable | Fecha límite | Estado | Resolución / ADR |
 |---|----------|------|-------------|--------------|--------|------------------|
+| 1 | ¿Cuál es la fuente maestra autorizada para fichas, aprendices, instructores y programas? | Arquitectura | Por definir | Por definir | ABIERTA | — |
+| 2 | ¿La plataforma se integrará con SOFIA Plus, Zajuna, LMS u otros sistemas? ¿Con qué mecanismo? | Arquitectura | Por definir | Por definir | ABIERTA | — |
+| 3 | ¿Qué roles institucionales pueden ver información de aprendices? | Seguridad | Por definir | Por definir | ABIERTA | — |
+| 4 | ¿Qué datos personales son estrictamente necesarios para el seguimiento? | Seguridad | Por definir | Por definir | ABIERTA | — |
+| 5 | ¿Cuál es la política de retención documental para evidencias, reportes y actas? | Gestión | Por definir | Por definir | ABIERTA | — |
+| 6 | ¿Qué se considera ejecución real de una sesión: asistencia, evidencia, firma, geolocalización, confirmación instructor u otro? | Dominio | Por definir | Por definir | ABIERTA | — |
+| 7 | ¿Qué nivel de granularidad se requiere para avance runtime: ficha, aprendiz, RAP, evidencia, proyecto, sesión? | Dominio | Por definir | Por definir | ABIERTA | — |
+| 8 | ¿Los horarios se sincronizan desde una fuente externa o se crean dentro del sistema? | Arquitectura | Por definir | Por definir | ABIERTA | — |
+| 9 | ¿Qué estados oficiales debe tener un proyecto formativo? | Dominio | Por definir | Por definir | ABIERTA | — |
+| 10 | ¿Cómo se define una dependencia entre proyectos formativos? | Dominio | Por definir | Por definir | ABIERTA | — |
+| 11 | ¿Qué reportes PDF son obligatorios y quién los firma? | Gestión | Por definir | Por definir | ABIERTA | — |
+| 12 | ¿Qué acciones requieren aprobación humana? | Arquitectura | Por definir | Por definir | ABIERTA | — |
+| 13 | ¿Qué ambientes y sedes deben modelarse en la primera versión? | Dominio | Por definir | Por definir | ABIERTA | — |
+| 14 | ¿Se requiere operación offline o solo en línea? | Arquitectura | Por definir | Por definir | ABIERTA | — |
+| 15 | ¿Qué SLA espera coordinación para carga de horarios, trazas y reportes? | Gestión | Por definir | Por definir | ABIERTA | — |
+| 16 | ¿Qué métricas son indicadores oficiales y cuáles son solo analítica interna? | Gestión | Por definir | Por definir | ABIERTA | — |
+| 17 | ¿Qué reglas internas SENA no están en documentación pública y deben entregarse como insumo? | Gestión | Por definir | Por definir | ABIERTA | — |
 
 ---
 
