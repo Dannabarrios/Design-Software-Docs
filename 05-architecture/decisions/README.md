@@ -22,3 +22,5 @@ cp 05-architecture/decisions/_template-adr.md \
 
 | ADR | Título | Estado |
 |-----|--------|--------|
+| [ADR-001](./records/ADR-001-arquitectura-microservicios.md) | Arquitectura basada en microservicios | ACCEPTED |
+| [ADR-002](./records/ADR-002-no-reemplazo-sofia-plus.md) | No reemplazo de SOFIA Plus | ACCEPTED |
