@@ -1,7 +1,7 @@
 # Entrenamiento
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: 🟢 | Última actualización: 2026-06-22
+> Autor: Danna Barrios | Equipo: Documentación
 
 ## Contenido
 
@@ -9,18 +9,18 @@ Contiene manuales y material de onboarding para usuarios, administradores y equi
 
 ## Audiencias
 
-| Audiencia | Documento principal | Quién lo escribe |
-|-----------|--------------------|--------------------|
-| Usuarios finales (aprendices, instructores) | `user-manual.md` | Equipo de soporte / producto |
-| Administradores del sistema | `admin-manual.md` | Equipo de soporte / operaciones |
-| Nuevos integrantes técnicos del proyecto | `technical-onboarding.md` | Equipo de desarrollo / DevOps |
+| Audiencia | Documento principal |
+|-----------|-------------------|
+| Usuarios finales (coordinadores, instructores, actores autorizados) | `user-manual.md` |
+| Administradores del sistema | `admin-manual.md` |
+| Nuevos integrantes técnicos del proyecto | `technical-onboarding.md` |
 
-> **Equipo de soporte:** esta es la sección principal donde documentar. Procedimientos de atención, escalamiento, preguntas frecuentes y guías paso a paso para usuarios van en `user-manual.md` y `admin-manual.md`. Para documentación operativa de respuesta a incidentes, ver también [`13-operations/`](../13-operations/).
+> **Equipo de soporte:** esta es la sección principal donde documentar procedimientos de atención y guías para usuarios. Para documentación operativa de respuesta a incidentes, ver también [`13-operations/`](../13-operations/).
 
 ## Archivos
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| [user-manual.md](./user-manual.md) | Manual para usuarios finales | 🔴 |
-| [admin-manual.md](./admin-manual.md) | Manual para administración y soporte | 🔴 |
-| [technical-onboarding.md](./technical-onboarding.md) | Guía de entrada para integrantes técnicos | 🔴 |
+| [user-manual.md](./user-manual.md) | Guía de tareas para coordinadores, instructores y actores autorizados. | 🟢 |
+| [admin-manual.md](./admin-manual.md) | Gestión de estructura institucional, actores, programas, fichas, parámetros y acceso. | 🟢 |
+| [technical-onboarding.md](./technical-onboarding.md) | Guía de entrada al proyecto: estructura del repo, gobierno, ramas y microservicios. | 🟢 |
