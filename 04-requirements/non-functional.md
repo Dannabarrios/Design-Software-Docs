@@ -7,7 +7,7 @@
 |----|---------------|
 | RNF-001 | Seguridad por roles, permisos y mínimo privilegio. |
 | RNF-002 | Auditoría completa de acciones sensibles. |
-| RNF-003 | Separación estricta de bases de datos por microservicio. |
+| RNF-003 | Separación de colecciones por dominio dentro de una única base de datos MongoDB. |
 | RNF-004 | Correlation ID obligatorio en APIs y eventos. |
 | RNF-005 | Observabilidad: logs, métricas y trazas distribuidas. |
 | RNF-006 | Protección de datos personales (Ley 1581 de 2012). |
