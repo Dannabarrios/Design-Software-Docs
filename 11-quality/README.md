@@ -1,15 +1,15 @@
 # Calidad
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: 🟢 | Última actualización: 2026-06-22
+> Autor: Danna Barrios | Equipo: Documentación
 
 ## Contenido
 
-Define prácticas de pruebas, revisión de código y criterios de calidad.
+Define prácticas de pruebas, revisión de cambios y criterios de calidad del sistema.
 
 ## Archivos
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| [testing-strategy.md](./testing-strategy.md) | Estrategia de pruebas por nivel y tipo | 🔴 |
-| [code-review.md](./code-review.md) | Criterios y flujo para revisiones de código | 🔴 |
+| [testing-strategy.md](./testing-strategy.md) | Estrategia de pruebas por nivel: unitarias, integración, contractuales (RNF-008, RNF-009) y end-to-end. | 🟢 |
+| [code-review.md](./code-review.md) | Lineamientos de revisión de PR, checklist de DoD/DoR, CODEOWNERS y criterios de aprobación. | 🟢 |
