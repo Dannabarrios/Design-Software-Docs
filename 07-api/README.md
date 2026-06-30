@@ -1,7 +1,7 @@
 # API
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: 🟡 | Última actualización: 2026-06-22
+> Autor: Danna Barrios | Equipo: Documentación
 
 ## Contenido
 
@@ -11,9 +11,9 @@ Define lineamientos de API, autenticación y ubicación de contratos OpenAPI.
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| [guidelines.md](./guidelines.md) | Convenciones de diseño de APIs | 🔴 |
-| [authentication.md](./authentication.md) | Estrategia de autenticación y autorización | 🔴 |
-| [contracts/openapi/](./contracts/openapi/) | Contratos OpenAPI validados y publicables | 🔴 |
+| [guidelines.md](./guidelines.md) | Convenciones de diseño de APIs REST: recursos, versionado, métodos, errores, paginación y correlation_id. | 🟢 |
+| [authentication.md](./authentication.md) | Estrategia de autenticación y autorización: auth-service, tokens, roles, mínimo privilegio. | 🟢 |
+| [contracts/openapi/](./contracts/openapi/) | Contratos OpenAPI formales por servicio (aún no escritos). | 🟡 |
 
 ## Dónde va cada contrato
 
