@@ -1,7 +1,7 @@
 # Operaciones
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: 🟢 | Última actualización: 2026-06-22
+> Autor: Danna Barrios | Equipo: Documentación
 
 ## Contenido
 
@@ -11,6 +11,6 @@ Describe cómo operar, monitorear, responder incidentes y recuperar el sistema.
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| [observability.md](./observability.md) | Métricas, logs, trazas, alertas y tableros | 🔴 |
-| [incident-management.md](./incident-management.md) | Clasificación, respuesta y comunicación de incidentes | 🔴 |
-| [backup-and-recovery.md](./backup-and-recovery.md) | Backups, restauración, RPO/RTO y pruebas de recuperación | 🔴 |
+| [observability.md](./observability.md) | Logs estructurados, métricas, trazas distribuidas, healthchecks y qué se monitorea. | 🟢 |
+| [incident-management.md](./incident-management.md) | Clasificación por severidad, flujo de detección-diagnóstico-resolución y registro en auditoría. | 🟢 |
+| [backup-and-recovery.md](./backup-and-recovery.md) | Datos propietarios respaldados, datos re-sincronizados, retención y recuperación ante fallos. | 🟢 |
